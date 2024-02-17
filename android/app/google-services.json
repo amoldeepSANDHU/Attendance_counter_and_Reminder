@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "637813790730",
+    "project_id": "chatapp-d9e3a",
+    "storage_bucket": "chatapp-d9e3a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:637813790730:android:0c33e01ef7c6b3ea5a67f3",
+        "android_client_info": {
+          "package_name": "com.gaganamol.attendanceCounter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "637813790730-ro5276drer801au36r8m3un5nh6fbs44.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gaganamol.attendanceCounter",
+            "certificate_hash": "6b8046ba094a8b517787837cefa7f8c35dfd925e"
+          }
+        },
+        {
+          "client_id": "637813790730-f5aso8rpmma8pe47qltkm7v0mmradav4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_EiNcRrJvZi0_XwPl_q4reRPi3KOe3tI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "637813790730-3k69kknk30g5o5gqp7hu1f8c8babtkjr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "637813790730-f8nrcbthrppgdi5ec64g0kruipm1tcs3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.gaganamol.attendanceCounter"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:637813790730:android:3a9a0e45892393ab5a67f3",
+        "android_client_info": {
+          "package_name": "com.gagandeep.chat_my_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "637813790730-f5aso8rpmma8pe47qltkm7v0mmradav4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_EiNcRrJvZi0_XwPl_q4reRPi3KOe3tI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "637813790730-3k69kknk30g5o5gqp7hu1f8c8babtkjr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "637813790730-f8nrcbthrppgdi5ec64g0kruipm1tcs3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.gaganamol.attendanceCounter"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
